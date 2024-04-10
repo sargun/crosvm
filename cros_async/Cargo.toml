@@ -33,7 +33,7 @@ win_util = { path = "../win_util" }
 smallvec = "*"
 
 [dependencies.futures]
-version = "*"
+version = "0.3"
 default-features = false
 features = ["alloc"]
 

@@ -109,7 +109,7 @@ win_util = { path = "../win_util"}
 winapi = "*"
 
 [dependencies.futures]
-version = "*"
+version = "0.3"
 features = ["async-await", "std"]
 default-features = false
 
